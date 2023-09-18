@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Admin Guide</title>
+    <topicref href="user-guide/single-overview.md" format="mdita"/>
+    <topicref href="admin-guide/intro-cloud.md" format="mdita"/>
+    <topicref href="admin-guide/abcd-settings.md" format="mdita"/>
+    <topicref href="admin-guide/information-potato-settings.md" format="mdita"/>
+    <topicref href="admin-guide/custom-search-limiting.md" format="markdown"/>
+    <mapref href="keys.ditamap" processing-role="resource-only"/>
+</map>
